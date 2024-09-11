@@ -1,0 +1,29 @@
+{
+    "asset": "MAKINGMEMES",
+    "name": "MakingMemes",
+    "description": "When the world is falling apart, what is Pepe to do? What Pepe does best, Make Memes",
+    "Artist": {
+        "name": "MSeward"
+    },
+    "links": [
+        {
+            "type": "url",
+            "data": "https://pepesofwar.art"
+        },
+        {
+            "type": "twitter",
+            "data": "https://twitter.com/martin.seward101"
+        }
+    ],
+    "images": [
+        {
+            "type": "icon",
+            "size": "48x48",
+            "data": "https://i.postimg.cc/KvCj59Js/makingmemes-48x48.png"
+        },
+        {
+            "type": "large",
+            "data": "https://i.postimg.cc/Kvmhht4v/E1855715-D0-A6-4-F34-9281-1-B5-C60-A1-F350-1-102-o.jpg"
+        }
+    ]
+}
